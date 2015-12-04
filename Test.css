@@ -1,0 +1,14 @@
+li{
+display:inline;
+}
+a {
+  text-decoration: none;
+  padding-right: 20px;
+}
+body{
+  font-family: sans-serif;
+}
+ul a:hover {
+  text-decoration: underline;
+  color: blue;
+}
